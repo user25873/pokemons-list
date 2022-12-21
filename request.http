@@ -3,5 +3,5 @@ POST https://prueva-api-production.up.railway.app/api/favoritos HTTP/1.1
 Content-Type: application/json
 
 {
-  "id_pokemon": "abcdefg"
+  "id_pokemon": "1"
 }
